@@ -10,20 +10,20 @@
   "author": "Tom Wiesing",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^17.0.24",
-    "@types/react": "^18.0.5",
+    "@types/node": "^22.13.14",
+    "@types/react": "^19.0.12",
     "eslint": "^8.13.0",
-    "next": "^12.1.5",
-    "typescript": "^4.6.3"
+    "next": "^15.2.4",
+    "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "next": ">12.0.0",
-    "react": ">17.0.0"
+    "next": "^15.2.4",
+    "react": "^19.0.0"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0",
-    "eslint-config-next": "^12.1.5",
-    "gh-pages": "^3.2.3"
+    "eslint-config-next": "^15.2.4",
+    "gh-pages": "^6.3.0"
   }
 }

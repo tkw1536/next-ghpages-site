@@ -9,6 +9,6 @@ export default class Legal extends React.Component<LegalProps, LegalState> {
     state: LegalState;
     private ref;
     componentDidMount(): void;
-    render(): JSX.Element;
+    render(): React.JSX.Element;
 }
 export {};
